@@ -1,4 +1,4 @@
-# Hi, I'm Wahid Eman Kalyan 👋
+# Hi, I'm Wahid Eman Kalyan 
 
 **M.Tech in Operations Research** at **National Institute of Technology (NIT) Durgapur**  
 **B.E. in Mechanical Engineering** from **Jadavpur University, Kolkata**  
